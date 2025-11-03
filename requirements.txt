@@ -1,6 +1,6 @@
-Flask
-face_recognition
-numpy
+dlib-bin
+face-recognition
+flask
+flask-cors
 pymongo
 pytz
-gunicorn
